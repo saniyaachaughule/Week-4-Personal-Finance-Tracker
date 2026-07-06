@@ -179,7 +179,7 @@ python tests/test_reports.py
 Include screenshots of:
 
 - Main Menu
-![alt text](image.png)
+(image.png)
 
 - Add Expense
 ![alt text](image-1.png)
