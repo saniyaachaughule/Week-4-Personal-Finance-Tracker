@@ -207,7 +207,8 @@ Include screenshots of:
 
 
 - Backup Creation
-![Uploading Screenshot 2026-07-06 135013.png…]()
+<img width="1261" height="923" alt="Screenshot 2026-07-06 135013" src="https://github.com/user-attachments/assets/da5be453-4822-4dd1-a6cd-5adb5444eb9f" />
+
 
 
 ---
