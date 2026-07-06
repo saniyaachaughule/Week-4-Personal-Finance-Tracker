@@ -179,34 +179,42 @@ python tests/test_reports.py
 Include screenshots of:
 
 - Main Menu
-(image.png)
+<img width="803" height="467" alt="Screenshot 2026-07-06 134615" src="https://github.com/user-attachments/assets/d4d5f049-7f5d-487e-8cb5-49cc2cb66827" />
+
 
 - Add Expense
-![alt text](image-1.png)
+<img width="947" height="806" alt="Screenshot 2026-07-06 134650" src="https://github.com/user-attachments/assets/53d9c33c-70be-4f61-98e9-b3866b736e26" />
+
 
 - View Expenses
-![alt text](image-2.png)
+<img width="923" height="660" alt="Screenshot 2026-07-06 134724" src="https://github.com/user-attachments/assets/a433fc80-aa52-4d59-8925-403f06917bc7" />
+
 
 - Search Expense
-![alt text](image-3.png)
+<img width="796" height="638" alt="Screenshot 2026-07-06 134756" src="https://github.com/user-attachments/assets/b06eb418-7180-4902-a986-5a3cd0a3cc97" />
+
 
 - Monthly Report
-![alt text](image-4.png)
+<img width="779" height="653" alt="Screenshot 2026-07-06 134825" src="https://github.com/user-attachments/assets/24202a76-23d2-497d-ba86-0ed5f8d4b889" />
+
 
 - Statistics
-![alt text](image-5.png)
+<img width="791" height="656" alt="Screenshot 2026-07-06 134854" src="https://github.com/user-attachments/assets/7d6a8741-0d95-46e7-960a-0e7b5f3c9992" />
+
 
 - CSV Export
-![alt text](image-6.png)
+<img width="870" height="482" alt="Screenshot 2026-07-06 134932" src="https://github.com/user-attachments/assets/7b68aa27-de49-4b94-826c-f5c1d34ef4e2" />
+
 
 - Backup Creation
-![alt text](image-7.png)
+![Uploading Screenshot 2026-07-06 135013.png…]()
+
 
 ---
 
 ## 👩‍💻 Author
 
-**Saniya Chaughule**
+**Saniya Choughule**
 
 Python Internship Project – Week 4
 
